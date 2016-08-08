@@ -1,0 +1,33 @@
+_repo: Wells-Brothers--The-Young-Cattle-Kings_12791
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Andy
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '773'
+    url: http://www.gutenberg.org/2009/agents/773
+    wikipedia: http://en.wikipedia.org/wiki/Andy_Adams_%28writer%29
+description: 'In the Old West, family fortunes were often made -- and sometimes lost
+  -- with amazing rapidity. In Andy Adams'' novel Wells Brothers: The Young Cattle
+  Kings, a pair of orphaned brothers put their scrappy determination to work and establish
+  a thriving ranch in an extremely inhospitable environment with tall odds stacked
+  against them. Praised for its realism, Wells Brothers is a must-read for those interested
+  in well-researched fiction about the West.'
+gutenberg_bookshelf: Western
+gutenberg_issued: '2004-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranch life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: 'Wells Brothers: The Young Cattle Kings'
+url: http://www.gutenberg.org/ebooks/12791
