@@ -1,5 +1,8 @@
 _repo: Wells-Brothers--The-Young-Cattle-Kings_12791
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Adams, Andy
@@ -14,6 +17,8 @@ description: 'In the Old West, family fortunes were often made -- and sometimes 
   a thriving ranch in an extremely inhospitable environment with tall odds stacked
   against them. Praised for its realism, Wells Brothers is a must-read for those interested
   in well-researched fiction about the West.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12791#Wells-Brothers--The-Young-Cattle-Kings
 gutenberg_bookshelf: Western
 gutenberg_issued: '2004-06-30'
 gutenberg_type: Text
